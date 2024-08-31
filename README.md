@@ -14,7 +14,7 @@
 <hr>
 <h2 id="technologies">💻 Task:</h2>
 
-<h1>javascript-array-tasks</h1>
+
 <h3>1. Declare an array</h3>
 <h4>Instructions:</h4>
 <ol>
