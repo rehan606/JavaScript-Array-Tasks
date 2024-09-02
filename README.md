@@ -2,6 +2,7 @@
 
 <h2 id="layout">🎨Description:</h2>
 
+
 <p align="center">Welcome to the JavaScript Array Tasks repository! This repository is a curated collection of tasks and exercises designed to help you master arrays in JavaScript. Whether you're a beginner or looking to refresh your skills, these exercises will provide you with hands-on experience in handling arrays, one of the most fundamental data structures in JavaScript.
 </p>
 <hr>
